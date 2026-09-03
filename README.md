@@ -49,19 +49,6 @@ Learning how to:
 
 ---
 
-## 📂 Projects
-
-### 🌱 Learning Git
-
-My first steps into Git and GitHub.
-
-**What I'm practicing:**
-- Git repositories
-- `git add`
-- `git commit`
-- `git push`
-- Branches
-- GitHub repositories
 
 🔗 [View Repository](https://github.com/milanbhandari03-may/learning-git)
 
